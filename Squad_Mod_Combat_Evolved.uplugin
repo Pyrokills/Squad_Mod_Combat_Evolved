@@ -1,17 +1,3 @@
-{
-	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
-	"FriendlyName": "Squad_Mod_Combat_Evolved",
-	"Description": "Squad Mod Combat",
-	"Category": "Squad",
-	"CreatedBy": "",
-	"CreatedByURL": "",
-	"DocsURL": "",
-	"MarketplaceURL": "",
-	"SupportURL": "",
-	"CanContainContent": true,
-	"IsBetaVersion": false,
-	"IsMod": true,
-	"Installed": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:426f338822a980c981147c1ee3cdd2c3ad0e4aa8ac7603c7db1ac380ba0d0f32
+size 365

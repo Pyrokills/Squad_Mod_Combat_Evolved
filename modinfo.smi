@@ -1,9 +1,3 @@
-[Modding.Core]
-ModName=Squad_Mod_Combat_Evolved
-ModDescription=Squad Mod Combat
-ModSteamImagePreview=C:/Users/ajk02/OneDrive/Desktop/g4415.png
-ModPathToPakFile=
-ModVersion=0
-PublisherID=0
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:aed036856f85e21cc697c32fe91803d03eb2891a1717678c7a2bc0a25329498e
+size 199
